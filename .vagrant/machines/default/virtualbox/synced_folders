@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/app":{"owner":"www-data","group":"www-data","guestpath":"/var/www/app","hostpath":"C:/xampp/htdocs/Portfolio","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/xampp/htdocs/Portfolio","disabled":false,"__vagrantfile":true}}}
